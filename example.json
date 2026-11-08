@@ -1,0 +1,16 @@
+{
+  "snapshots": [
+    {
+      "time": 0,
+      "counts": {
+        "synthetic-a": 1
+      }
+    },
+    {
+      "time": 60,
+      "counts": {
+        "synthetic-a": 4
+      }
+    }
+  ]
+}
